@@ -1,82 +1,82 @@
 body {
-    background-color: #000000;
+  background-color: #000000;
 }
 
 .carpic {
-    height: 100vh;
-    background-image: url("forza1.jpg");
-    background-position: center center;
-    background-size: cover;
+  height: 100vh;
+  background-image: url("forza1.jpg");
+  background-position: center center;
+  background-size: cover;
 }
 
 h1 {
-    color: #fff;
-    text-decoration: underline;
-    padding: 10px;;
+  color: #fff;
+  text-decoration: underline;
+  padding: 10px;
 }
 
 #myBtn {
-    height: 75px;
-    width: 100px;
-    background-color: #B8B8FF;
-    font-size: 15px;
-    border-radius: 20px;
-    position: absolute;
-    top: 70px;
-    left: 35px;
+  height: 75px;
+  width: 100px;
+  background-color: #b8b8ff;
+  font-size: 15px;
+  border-radius: 20px;
+  position: absolute;
+  top: 70px;
+  left: 35px;
 }
 
 #myBtn:hover {
-    background-color: #49111C;
-    color: #fff;
+  background-color: #49111c;
+  color: #fff;
 }
 
 #myBtn2 {
-    height: 75px;
-    width: 100px;
-    background-color: #54F2F2;
-    font-size: 15px;
-    border-radius: 20px;
-    position: absolute;
-    top: 345px;
-    left: 35px;
+  height: 75px;
+  width: 100px;
+  background-color: #54f2f2;
+  font-size: 15px;
+  border-radius: 20px;
+  position: absolute;
+  top: 345px;
+  left: 35px;
 }
 
 #myBtn2:hover {
-    background-color: #042A3B;
-    color: #fff;
+  background-color: #042a3b;
+  color: #fff;
 }
 
 #myBtn3 {
-    height: 75px;
-    width: 100px;
-    background-color: #B2ECE1;
-    font-size: 15px;
-    border-radius: 20px;
-    position: absolute;
-    top: 625px;
-    left: 35px;
+  height: 75px;
+  width: 100px;
+  background-color: #b2ece1;
+  font-size: 15px;
+  border-radius: 20px;
+  position: absolute;
+  top: 625px;
+  left: 35px;
 }
 
 #myBtn3:hover {
-    background-color: #31263E;
-    color: #fff;
+  background-color: #31263e;
+  color: #fff;
 }
 
-.p1{
-    color: #fff;
-    justify-content: left;
-    margin: 95px;
+.p1 {
+  color: #fff;
+  justify-content: left;
+  margin: 95px;
 }
 
 .p2 {
-    color: #fff;
-    justify-content: left;
-    margin: 105px;
+  color: #fff;
+  justify-content: left;
+  margin: 105px;
 }
 
 .p3 {
-    color: #fff;
-    justify-content: left;
-    margin: 110px;
+  color: #fff;
+  justify-content: left;
+  margin: 110px;
 }
